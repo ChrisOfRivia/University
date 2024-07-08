@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task10.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task11.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task12.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task7.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task8.c
+	<stdio.h>
+
+1710764543 source:c:\project\tu\projects\template\template\task9.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
