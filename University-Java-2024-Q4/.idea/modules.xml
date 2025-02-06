@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmsLab/AlgorithmsLab.iml" filepath="$PROJECT_DIR$/AlgorithmsLab/AlgorithmsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLab/JavaLab.iml" filepath="$PROJECT_DIR$/JavaLab/JavaLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSU/JavaSU.iml" filepath="$PROJECT_DIR$/JavaSU/JavaSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSU/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/JavaSU/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLab/Lab_1/Lab_1.iml" filepath="$PROJECT_DIR$/JavaLab/Lab_1/Lab_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmsLab/Laboratory_1/Laboratory_1.iml" filepath="$PROJECT_DIR$/AlgorithmsLab/Laboratory_1/Laboratory_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmsLab/Laboratory_2/Laboratory_2.iml" filepath="$PROJECT_DIR$/AlgorithmsLab/Laboratory_2/Laboratory_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University-Java-2024-Q4.iml" filepath="$PROJECT_DIR$/.idea/University-Java-2024-Q4.iml" />
+    </modules>
+  </component>
+</project>
